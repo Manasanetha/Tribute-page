@@ -13,9 +13,11 @@ it shows amazing narration and real story of a great actress.
 -User-friendly layout
 
 ## Project Structure
-Tribute-page/
-|__index.html
-|__README.md
+Tribute-Page/
+│── index.html
+│── style.css
+│── images/
+│── README.md
 
 ## How to rum
 1.Download or crone this repository.
